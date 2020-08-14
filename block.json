@@ -1,0 +1,14 @@
+{
+	"name": "animated-typed-js-block/animated-typed-js-block",
+	"title": "Animated Typed JS Block",
+	"category": "widgets",
+	"icon": "smiley",
+	"description": "Create an animated typing effect text easily",
+	"textdomain": "animated-typed-js-block",
+	"supports": {
+		"html": false
+	},
+	"editorScript": "file:./build/index.js",
+	"editorStyle": "file:./build/index.css",
+	"style": "file:./build/style-index.css"
+}
